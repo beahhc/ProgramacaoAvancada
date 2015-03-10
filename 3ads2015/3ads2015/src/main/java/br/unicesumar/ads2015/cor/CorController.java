@@ -1,5 +1,6 @@
 package br.unicesumar.ads2015.cor;
 
+import br.unicesumar.ads2015.util.MapRowMapper;
 import java.lang.Object;
 import java.lang.String;
 import java.util.List;
